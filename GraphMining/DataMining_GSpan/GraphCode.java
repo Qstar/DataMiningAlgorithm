@@ -1,36 +1,29 @@
-package DataMining_GSpan;
+package GraphMining.DataMining_GSpan;
 
 import java.util.ArrayList;
 
 /**
  * 图编码类
- * @author lyq
  *
+ * @author lyq
  */
-public class GraphCode {
-	//边的集合，边的排序代表着边的添加次序
-	ArrayList<Edge> edgeSeq;
-	//拥有这些边的图的id
-	ArrayList<Integer> gs;
-	
-	public GraphCode() {
-		this.edgeSeq = new ArrayList<>();
-		this.gs = new ArrayList<>();
-	}
+class GraphCode {
+    //边的集合，边的排序代表着边的添加次序
+    ArrayList<Edge> edgeSeq;
+    //拥有这些边的图的id
+    ArrayList<Integer> gs;
 
-	public ArrayList<Edge> getEdgeSeq() {
-		return edgeSeq;
-	}
+    GraphCode(){
+        this.edgeSeq = new ArrayList<>();
+        this.gs = new ArrayList<>();
+    }
 
-	public void setEdgeSeq(ArrayList<Edge> edgeSeq) {
-		this.edgeSeq = edgeSeq;
-	}
+    ArrayList<Edge> getEdgeSeq(){
+        return edgeSeq;
+    }
 
-	public ArrayList<Integer> getGs() {
-		return gs;
-	}
+    ArrayList<Integer> getGs(){
+        return gs;
+    }
 
-	public void setGs(ArrayList<Integer> gs) {
-		this.gs = gs;
-	}
 }

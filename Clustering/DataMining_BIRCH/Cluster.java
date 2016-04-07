@@ -1,60 +1,56 @@
-package DataMining_BIRCH;
+package Clustering.DataMining_BIRCH;
 
 import java.util.ArrayList;
 
 /**
  * 叶子节点中的小集群
- * @author lyq
  *
+ * @author lyq
  */
-public class Cluster extends ClusteringFeature{
-	//集群中的数据点
-	private ArrayList<double[]> data;
-	//父亲节点
-	private LeafNode parentNode;
-	
-	public Cluster(String[] record){
-		double[] d = new double[record.length];
-		data = new ArrayList<>();
-		for(int i=0; i<record.length; i++){
-			d[i] = Double.parseDouble(record[i]);
-		}
-		data.add(d);
-		//计算CF聚类特征
-		this.setLS(data);
-		this.setSS(data);
-		this.setN(data);
-	}
+class Cluster extends ClusteringFeature {
+    //集群中的数据点
+    private ArrayList<double[]> data;
+    //父亲节点
+    private LeafNode parentNode;
 
-	public ArrayList<double[]> getData() {
-		return data;
-	}
+    Cluster(String[] record){
+        double[] d = new double[record.length];
+        data = new ArrayList<>();
+        for (int i = 0; i < record.length; i++) {
+            d[i] = Double.parseDouble(record[i]);
+        }
+        data.add(d);
+        //计算CF聚类特征
+        this.setLS(data);
+        this.setSS(data);
+        this.setN(data);
+    }
 
-	public void setData(ArrayList<double[]> data) {
-		this.data = data;
-	}
+    ArrayList<double[]> getData(){
+        return data;
+    }
 
-	@Override
-	protected void directAddCluster(ClusteringFeature node) {
-		//如果是聚类包括数据记录，则还需合并数据记录
-		Cluster c = (Cluster)node;
-		ArrayList<double[]> dataRecords = c.getData();
-		this.data.addAll(dataRecords);
-		
-		super.directAddCluster(node);
-	}
+    @Override
+    protected void directAddCluster(ClusteringFeature node){
+        //如果是聚类包括数据记录，则还需合并数据记录
+        Cluster c = (Cluster) node;
+        ArrayList<double[]> dataRecords = c.getData();
+        this.data.addAll(dataRecords);
 
-	public LeafNode getParentNode() {
-		return parentNode;
-	}
+        super.directAddCluster(node);
+    }
 
-	public void setParentNode(LeafNode parentNode) {
-		this.parentNode = parentNode;
-	}
+    LeafNode getParentNode(){
+        return parentNode;
+    }
 
-	@Override
-	public void addingCluster(ClusteringFeature clusteringFeature) {
-		// TODO Auto-generated method stub
-		
-	}
+    void setParentNode(LeafNode parentNode){
+        this.parentNode = parentNode;
+    }
+
+    @Override
+    public void addingCluster(ClusteringFeature clusteringFeature){
+        // TODO Auto-generated method stub
+
+    }
 }

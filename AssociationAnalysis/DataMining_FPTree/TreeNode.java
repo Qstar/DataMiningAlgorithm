@@ -1,4 +1,4 @@
-package DataMining_FPTree;
+package AssociationAnalysis.DataMining_FPTree;
 
 import java.util.ArrayList;
 
@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * @author lyq
  * 
  */
-public class TreeNode implements Comparable<TreeNode>, Cloneable{
+class TreeNode implements Comparable<TreeNode>, Cloneable{
 	// 节点类别名称
 	private String name;
 	// 计数数量
@@ -18,7 +18,7 @@ public class TreeNode implements Comparable<TreeNode>, Cloneable{
 	// 孩子节点，可以为多个
 	private ArrayList<TreeNode> childNodes;
 	
-	public TreeNode(String name, int count){
+	TreeNode(String name, int count){
 		this.name = name;
 		this.count = count;
 	}
@@ -27,11 +27,7 @@ public class TreeNode implements Comparable<TreeNode>, Cloneable{
 		return name;
 	}
 
-	public void setName(String name) {
-		this.name = name;
-	}
-
-	public Integer getCount() {
+    public Integer getCount() {
 		return count;
 	}
 
@@ -39,19 +35,19 @@ public class TreeNode implements Comparable<TreeNode>, Cloneable{
 		this.count = count;
 	}
 
-	public TreeNode getParentNode() {
+	TreeNode getParentNode() {
 		return parentNode;
 	}
 
-	public void setParentNode(TreeNode parentNode) {
+	void setParentNode(TreeNode parentNode) {
 		this.parentNode = parentNode;
 	}
 
-	public ArrayList<TreeNode> getChildNodes() {
+	ArrayList<TreeNode> getChildNodes() {
 		return childNodes;
 	}
 
-	public void setChildNodes(ArrayList<TreeNode> childNodes) {
+	void setChildNodes(ArrayList<TreeNode> childNodes) {
 		this.childNodes = childNodes;
 	}
 
