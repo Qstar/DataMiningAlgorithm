@@ -11,7 +11,7 @@ import java.util.HashMap;
 /**
  * 维特比算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class ViterbiTool {
     // 观察到的状态序列

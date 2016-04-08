@@ -3,7 +3,7 @@ package GraphMining.DataMining_GSpan;
 /**
  * 边的频繁统计
  *
- * @author lyq
+ * @author Qstar
  */
 class EdgeFrequency {
     //用于存放边计数的3维数组

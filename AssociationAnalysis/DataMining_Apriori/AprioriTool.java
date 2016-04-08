@@ -10,7 +10,7 @@ import java.util.*;
 /**
  * apriori算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class AprioriTool {
     // 最小支持度计数

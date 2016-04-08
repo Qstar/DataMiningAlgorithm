@@ -3,7 +3,7 @@ package AssociationAnalysis.DataMining_Apriori;
 /**
  * 频繁项集
  *
- * @author lyq
+ * @author Qstar
  */
 public class FrequentItem implements Comparable<FrequentItem> {
     // 频繁项集的集合ID

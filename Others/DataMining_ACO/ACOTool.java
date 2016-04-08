@@ -10,7 +10,7 @@ import java.util.*;
 /**
  * 蚁群算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class ACOTool {
     // 输入数据类型

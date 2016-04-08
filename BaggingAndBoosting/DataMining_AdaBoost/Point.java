@@ -3,7 +3,7 @@ package BaggingAndBoosting.DataMining_AdaBoost;
 /**
  * 坐标点类
  *
- * @author lyq
+ * @author Qstar
  */
 public class Point {
     // 坐标点x坐标

@@ -3,11 +3,11 @@ package Others.DataMining_TAN;
 /**
  * TAN树型朴素贝叶斯算法
  *
- * @author lyq
+ * @author Qstar
  */
 public class Client {
     public static void main(String[] args){
-        String filePath = "C:\\Users\\lyq\\Desktop\\icon\\input.txt";
+        String filePath = "/Users/Qstar/Desktop/DataMiningAlgorithm/Others/DataMining_TAN/input.txt";
         // 条件查询语句
         String queryStr;
         // 分类结果概率1

@@ -3,7 +3,7 @@ package Others.DataMining_GA;
 /**
  * GeneticÒÅ´«Ëã·¨²âÊÔÀà
  *
- * @author lyq
+ * @author Qstar
  */
 public class Client {
     public static void main(String[] args){

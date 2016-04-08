@@ -3,7 +3,7 @@ package Others.DataMining_MSApriori;
 /**
  * 基于多支持度的Apriori算法测试类
  *
- * @author lyq
+ * @author Qstar
  */
 public class Client {
     public static void main(String[] args){

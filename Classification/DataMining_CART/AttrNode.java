@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 回归分类树节点
  *
- * @author lyq
+ * @author Qstar
  */
 class AttrNode {
     // 节点属性名字

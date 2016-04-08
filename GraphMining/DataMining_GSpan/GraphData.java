@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 图的数据类
  *
- * @author lyq
+ * @author Qstar
  */
 class GraphData {
     // 节点组标号

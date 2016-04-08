@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * SVM支持向量机工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class SVMTool {
     // 训练集数据文件路径

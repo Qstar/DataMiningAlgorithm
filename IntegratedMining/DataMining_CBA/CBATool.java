@@ -13,7 +13,7 @@ import java.util.HashMap;
 /**
  * CBA算法(关联规则分类)工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class CBATool {
     // 年龄的类别划分
@@ -268,8 +268,8 @@ class CBATool {
     /**
      * 数组array2是否包含于array1中，不需要完全一样
      *
-     * @param array1
-     * @param array2
+     * @param array1 数组1
+     * @param array2 数组2
      */
     private boolean isStrArrayContain(String[] array1, String[] array2){
         boolean isContain = true;

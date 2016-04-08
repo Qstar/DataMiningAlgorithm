@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 序列，每个序列内部包含多组ItemSet项集
  *
- * @author lyq
+ * @author Qstar
  */
 class Sequence implements Comparable<Sequence>, Cloneable {
     // 序列所属事务ID

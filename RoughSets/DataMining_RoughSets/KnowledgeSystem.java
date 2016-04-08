@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 知识系统
  *
- * @author lyq
+ * @author Qstar
  */
 class KnowledgeSystem {
     // 知识系统内的集合

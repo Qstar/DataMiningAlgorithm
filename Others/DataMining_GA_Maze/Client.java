@@ -3,7 +3,7 @@ package Others.DataMining_GA_Maze;
 /**
  * 遗传算法在走迷宫游戏的应用
  *
- * @author lyq
+ * @author Qstar
  */
 public class Client {
     public static void main(String[] args){

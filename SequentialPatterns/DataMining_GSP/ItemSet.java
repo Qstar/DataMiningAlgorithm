@@ -6,7 +6,7 @@ import java.util.Objects;
 /**
  * 序列中的子项集
  *
- * @author lyq
+ * @author Qstar
  */
 class ItemSet {
     /**

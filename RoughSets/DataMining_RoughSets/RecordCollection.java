@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 /**
  * 数据记录集合，包含一些共同的属性
  *
- * @author lyq
+ * @author Qstar
  */
 class RecordCollection {
     // 集合包含的属性

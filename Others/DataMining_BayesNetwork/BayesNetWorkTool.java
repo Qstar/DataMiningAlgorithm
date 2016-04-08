@@ -10,7 +10,7 @@ import java.util.HashMap;
 /**
  * 贝叶斯网络算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class BayesNetWorkTool {
     // 联合概率分布数据文件地址

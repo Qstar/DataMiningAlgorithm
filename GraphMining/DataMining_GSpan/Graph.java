@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 图结构类
  *
- * @author lyq
+ * @author Qstar
  */
 class Graph {
     // 图节点标号组

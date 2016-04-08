@@ -3,12 +3,12 @@ package Others.DataMining_BayesNetwork;
 /**
  * 贝叶斯网络场景测试类
  *
- * @author lyq
+ * @author Qstar
  */
 public class Client {
     public static void main(String[] args){
-        String dataFilePath = "C:\\Users\\lyq\\Desktop\\icon\\input.txt";
-        String attachFilePath = "C:\\Users\\lyq\\Desktop\\icon\\attach.txt";
+        String dataFilePath = "/Users/Qstar/Desktop/DataMiningAlgorithm/Others/DataMining_BayesNetwork/input.txt";
+        String attachFilePath = "/Users/Qstar/Desktop/DataMiningAlgorithm/Others/DataMining_BayesNetwork/attach.txt";
         // 查询串语句
         String queryStr;
         // 结果概率

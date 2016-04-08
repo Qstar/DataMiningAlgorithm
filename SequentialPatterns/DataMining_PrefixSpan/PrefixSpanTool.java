@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 /**
  * PrefixSpanTool序列模式分析算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class PrefixSpanTool {
     // 测试数据文件地址

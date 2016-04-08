@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 聚簇类
  *
- * @author lyq
+ * @author Qstar
  */
 class Cluster implements Cloneable {
     //簇唯一id标识号

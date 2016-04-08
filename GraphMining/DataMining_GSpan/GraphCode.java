@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 图编码类
  *
- * @author lyq
+ * @author Qstar
  */
 class GraphCode {
     //边的集合，边的排序代表着边的添加次序

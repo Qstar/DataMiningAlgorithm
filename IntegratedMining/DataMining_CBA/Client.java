@@ -5,11 +5,11 @@ import java.text.MessageFormat;
 /**
  * CBA算法--基于关联规则的分类算法
  *
- * @author lyq
+ * @author Qstar
  */
 public class Client {
     public static void main(String[] args){
-        String filePath = "C:\\Users\\lyq\\Desktop\\icon\\input.txt";
+        String filePath = "/Users/Qstar/Desktop/DataMiningAlgorithm/IntegratedMining/DataMining_CBA/input.txt";
         String attrDesc = "Age=Senior,CreditRating=Fair";
         String classification;
 

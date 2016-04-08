@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 贝叶斯网络节点类
  *
- * @author lyq
+ * @author Qstar
  */
 class Node {
     // 节点的属性名称

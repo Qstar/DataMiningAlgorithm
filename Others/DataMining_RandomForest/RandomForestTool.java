@@ -12,7 +12,7 @@ import java.util.Random;
 /**
  * 随机森林算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class RandomForestTool {
     // 测试数据文件地址

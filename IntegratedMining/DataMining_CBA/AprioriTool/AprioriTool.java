@@ -6,7 +6,7 @@ import java.util.*;
 /**
  * apriori算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 public class AprioriTool {
     // 最小支持度计数
@@ -260,8 +260,8 @@ public class AprioriTool {
     /**
      * 数组array2是否包含于array1中，不需要完全一样
      *
-     * @param array1
-     * @param array2
+     * @param array1 数组1
+     * @param array2 数组2
      */
     private boolean isStrArrayContain(String[] array1, String[] array2){
         boolean isContain = true;

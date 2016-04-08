@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 /**
  * TAN树型朴素贝叶斯算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class TANTool {
     // 测试数据集地址

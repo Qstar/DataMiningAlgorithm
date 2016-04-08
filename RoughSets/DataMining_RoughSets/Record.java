@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * 数据记录，包含这条记录所有属性
  *
- * @author lyq
+ * @author Qstar
  */
 class Record {
     // 记录名称

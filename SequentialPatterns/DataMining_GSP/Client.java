@@ -3,11 +3,11 @@ package SequentialPatterns.DataMining_GSP;
 /**
  * GSP序列模式分析算法
  *
- * @author lyq
+ * @author Qstar
  */
 public class Client {
     public static void main(String[] args){
-        String filePath = "C:\\Users\\lyq\\Desktop\\icon\\testInput.txt";
+        String filePath = "/Users/Qstar/Desktop/DataMiningAlgorithm/SequentialPatterns/DataMining_GSP/testInput.txt";
         //最小支持度阈值
         int minSupportCount = 2;
         //时间最小间隔

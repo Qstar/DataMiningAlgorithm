@@ -3,7 +3,7 @@ package StatisticalLearning.DataMining_EM;
 /**
  * 坐标点类
  *
- * @author lyq
+ * @author Qstar
  */
 public class Point {
     // 坐标点横坐标

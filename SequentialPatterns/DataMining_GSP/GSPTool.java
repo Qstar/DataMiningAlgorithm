@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 /**
  * GSP序列模式分析算法
  *
- * @author lyq
+ * @author Qstar
  */
 class GSPTool {
     // 测试数据文件地址

@@ -9,7 +9,7 @@ import java.util.*;
 /**
  * CART分类回归树算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class CARTTool {
     // 类标号的值类型

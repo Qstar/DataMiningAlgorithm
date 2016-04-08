@@ -11,7 +11,7 @@ import java.util.*;
 /**
  * 基于多支持度的Apriori算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class MSAprioriTool {
     // 前件判断的结果值，用于关联规则的推导

@@ -10,7 +10,7 @@ import java.util.ArrayList;
 /**
  * Chameleon 两阶段聚类算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class ChameleonTool {
     // 总的连接矩阵的情况,括号表示的是坐标点的id号

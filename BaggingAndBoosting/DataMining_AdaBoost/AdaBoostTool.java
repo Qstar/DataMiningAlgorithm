@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * AdaBoost提升算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class AdaBoostTool {
     // 分类的类别，程序默认为正类1和负类-1

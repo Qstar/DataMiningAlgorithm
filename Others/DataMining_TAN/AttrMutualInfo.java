@@ -3,7 +3,7 @@ package Others.DataMining_TAN;
 /**
  * 属性之间的互信息值，表示属性之间的关联性大小
  *
- * @author lyq
+ * @author Qstar
  */
 class AttrMutualInfo implements Comparable<AttrMutualInfo> {
     //关联属性值对

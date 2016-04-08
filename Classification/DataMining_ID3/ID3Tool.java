@@ -12,7 +12,7 @@ import java.util.HashMap;
 /**
  * ID3算法实现类
  *
- * @author lyq
+ * @author Qstar
  */
 class ID3Tool {
     // 类标号的值类型

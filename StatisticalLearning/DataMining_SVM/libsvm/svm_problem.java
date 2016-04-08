@@ -3,7 +3,7 @@ package StatisticalLearning.DataMining_SVM.libsvm;
 /**
  * 包含了训练集数据的基本信息
  *
- * @author lyq
+ * @author Qstar
  */
 public class svm_problem implements java.io.Serializable {
     //定义了向量的总个数

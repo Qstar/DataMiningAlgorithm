@@ -3,7 +3,7 @@ package Classification.DataMining_ID3;
 /**
  * ID3决策树分类算法测试场景类
  *
- * @author lyq
+ * @author Qstar
  */
 public class Client {
     public static void main(String[] args){

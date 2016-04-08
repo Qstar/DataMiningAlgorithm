@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * gSpan频繁子图挖掘算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class GSpanTool {
     // Label标号的最大数量，包括点标号和边标号

@@ -6,7 +6,7 @@ import java.util.Collections;
 /**
  * 连通图类
  *
- * @author lyq
+ * @author Qstar
  */
 class Graph {
     // 坐标点之间的连接属性，括号内为坐标id号

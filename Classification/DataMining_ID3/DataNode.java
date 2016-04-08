@@ -3,7 +3,7 @@ package Classification.DataMining_ID3;
 /**
  * 存放数据的叶子节点
  *
- * @author lyq
+ * @author Qstar
  */
 public class DataNode {
     /**

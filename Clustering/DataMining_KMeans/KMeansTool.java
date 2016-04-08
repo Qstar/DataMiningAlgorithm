@@ -11,7 +11,7 @@ import java.util.Collections;
 /**
  * k均值算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class KMeansTool {
     // 输入数据文件地址

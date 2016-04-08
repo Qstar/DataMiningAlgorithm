@@ -3,12 +3,12 @@ package Classification.DataMining_KNN;
 /**
  * k最近邻算法场景类型
  *
- * @author lyq
+ * @author Qstar
  */
 public class Client {
     public static void main(String[] args){
-        String trainDataPath = "C:\\Users\\lyq\\Desktop\\icon\\trainInput.txt";
-        String testDataPath = "C:\\Users\\lyq\\Desktop\\icon\\testinput.txt";
+        String trainDataPath = "/Users/Qstar/Desktop/DataMiningAlgorithm/Classification/DataMining_KNN/trainInput.txt";
+        String testDataPath = "/Users/Qstar/Desktop/DataMiningAlgorithm/Classification/DataMining_KNN/testinput.txt";
 
         KNNTool tool = new KNNTool(trainDataPath, testDataPath);
         tool.knnCompute(3);

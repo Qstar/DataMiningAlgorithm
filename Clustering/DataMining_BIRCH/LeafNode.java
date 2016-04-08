@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * CF树叶子节点
  *
- * @author lyq
+ * @author Qstar
  */
 class LeafNode extends ClusteringFeature {
     // 孩子集群

@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 聚类特征基本属性
  *
- * @author lyq
+ * @author Qstar
  */
 abstract class ClusteringFeature {
     // 子类中节点的总数目

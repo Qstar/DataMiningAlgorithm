@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * FPTree算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class FPTreeTool {
     // 输入数据文件位置

@@ -6,7 +6,7 @@ import java.util.Collections;
 /**
  * 字符项集类
  *
- * @author lyq
+ * @author Qstar
  */
 class ItemSet {
     // 项集内的字符

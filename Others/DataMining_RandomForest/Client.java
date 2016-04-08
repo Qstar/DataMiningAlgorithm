@@ -5,11 +5,11 @@ import java.text.MessageFormat;
 /**
  * 随机森林算法测试场景
  *
- * @author lyq
+ * @author Qstar
  */
 public class Client {
     public static void main(String[] args){
-        String filePath = "C:\\Users\\lyq\\Desktop\\icon\\input.txt";
+        String filePath = "/Users/Qstar/Desktop/DataMiningAlgorithm/Others/DataMining_RandomForest/input.txt";
         String queryStr = "Age=Youth,Income=Low,Student=No,CreditRating=Fair";
         String resultClassType;
         // 决策树的样本占总数的占比率

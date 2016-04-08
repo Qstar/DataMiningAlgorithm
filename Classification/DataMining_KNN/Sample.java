@@ -3,7 +3,7 @@ package Classification.DataMining_KNN;
 /**
  * 样本数据类
  *
- * @author lyq
+ * @author Qstar
  */
 class Sample implements Comparable<Sample> {
     // 样本数据的分类名称

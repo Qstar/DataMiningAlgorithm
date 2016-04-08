@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * k最近邻算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class KNNTool {
     // 为4个类别设置权重，默认权重比一致

@@ -5,7 +5,7 @@ import java.util.Objects;
 /**
  * 坐标点类
  *
- * @author lyq
+ * @author Qstar
  */
 public class Point implements Comparable<Point> {
     //坐标点id号,id号唯一

@@ -7,7 +7,7 @@ import java.util.Map;
 /**
  * 决策树
  *
- * @author lyq
+ * @author Qstar
  */
 class DecisionTree {
     // 树的根节点

@@ -9,7 +9,7 @@ import java.util.ArrayList;
 /**
  * HITS链接分析算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class HITSTool {
     //输入数据文件地址

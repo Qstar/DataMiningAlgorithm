@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 叶子节点中的小集群
  *
- * @author lyq
+ * @author Qstar
  */
 class Cluster extends ClusteringFeature {
     //集群中的数据点

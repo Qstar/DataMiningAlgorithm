@@ -3,7 +3,7 @@ package GraphMining.DataMining_GSpan;
 /**
  * 边，用五元组表示
  *
- * @author lyq
+ * @author Qstar
  */
 class Edge {
     static final int EDGE_SMALLER = 1;

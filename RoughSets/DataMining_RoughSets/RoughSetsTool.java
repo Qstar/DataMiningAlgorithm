@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 /**
  * 粗糙集属性约简算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class RoughSetsTool {
     // 决策属性名称

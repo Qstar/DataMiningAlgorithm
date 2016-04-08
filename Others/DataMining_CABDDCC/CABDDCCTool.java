@@ -10,7 +10,7 @@ import java.util.ArrayList;
 /**
  * 基于连通图的分裂聚类算法
  *
- * @author lyq
+ * @author Qstar
  */
 class CABDDCCTool {
     // 原始坐标点

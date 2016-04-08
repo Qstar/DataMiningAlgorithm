@@ -3,7 +3,7 @@ package Others.DataMining_Viterbi;
 /**
  * 基本变量定义类
  *
- * @author lyq
+ * @author Qstar
  */
 class BaseNames {
     public static final int DAY2 = 1;

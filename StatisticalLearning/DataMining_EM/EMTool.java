@@ -10,7 +10,7 @@ import java.util.ArrayList;
 /**
  * EM最大期望算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class EMTool {
     // 测试数据文件地址

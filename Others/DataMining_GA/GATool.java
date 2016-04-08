@@ -7,7 +7,7 @@ import java.util.Random;
 /**
  * 遗传算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class GATool {
     // 变量最小值

@@ -3,7 +3,7 @@ package AssociationAnalysis.DataMining_Apriori;
 /**
  * apriori关联规则挖掘算法调用类
  *
- * @author lyq
+ * @author Qstar
  */
 public class Client {
     public static void main(String[] args){

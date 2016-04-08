@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 属性节点，不是叶子节点
  *
- * @author lyq
+ * @author Qstar
  */
 class AttrNode {
     //当前属性的名字

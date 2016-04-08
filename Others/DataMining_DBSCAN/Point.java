@@ -3,7 +3,7 @@ package Others.DataMining_DBSCAN;
 /**
  * 坐标点类
  *
- * @author lyq
+ * @author Qstar
  */
 public class Point {
     // 坐标点横坐标

@@ -11,7 +11,7 @@ import java.util.Map;
 /**
  * 朴素贝叶斯算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class NaiveBayesTool {
     // 类标记符，这里分为2类，YES和NO

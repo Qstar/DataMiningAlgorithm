@@ -3,7 +3,7 @@ package Clustering.DataMining_KMeans;
 /**
  * 坐标点类
  *
- * @author lyq
+ * @author Qstar
  */
 public class Point implements Comparable<Point> {
     // 坐标点横坐标

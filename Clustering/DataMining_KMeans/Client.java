@@ -3,7 +3,7 @@ package Clustering.DataMining_KMeans;
 /**
  * K-means（K均值）算法调用类
  *
- * @author lyq
+ * @author Qstar
  */
 public class Client {
     public static void main(String[] args){

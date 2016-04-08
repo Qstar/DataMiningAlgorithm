@@ -10,7 +10,7 @@ import java.util.ArrayList;
 /**
  * DBSCAN基于密度聚类算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class DBSCANTool {
     // 测试数据文件地址

@@ -10,7 +10,7 @@ import java.util.ArrayList;
 /**
  * PageRank网页排名算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class PageRankTool {
     // 网页数量分类

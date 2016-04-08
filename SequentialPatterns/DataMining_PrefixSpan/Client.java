@@ -3,7 +3,7 @@ package SequentialPatterns.DataMining_PrefixSpan;
 /**
  * PrefixSpan序列模式挖掘算法
  *
- * @author lyq
+ * @author Qstar
  */
 public class Client {
     public static void main(String[] agrs){

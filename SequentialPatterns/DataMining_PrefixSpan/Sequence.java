@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 /**
  * 序列类
  *
- * @author lyq
+ * @author Qstar
  */
 class Sequence {
     // 序列内的项集

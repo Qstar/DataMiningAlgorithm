@@ -11,7 +11,7 @@ import java.util.LinkedList;
 /**
  * BIRCH聚类算法工具类
  *
- * @author lyq
+ * @author Qstar
  */
 class BIRCHTool {
     // 节点类型名称

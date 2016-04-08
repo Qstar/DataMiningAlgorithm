@@ -3,7 +3,7 @@ package Others.DataMining_MSApriori;
 /**
  * 频繁项集
  *
- * @author lyq
+ * @author Qstar
  */
 class FrequentItem implements Comparable<FrequentItem> {
     // 频繁项集的集合ID

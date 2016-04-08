@@ -6,7 +6,7 @@ import java.util.LinkedList;
 /**
  * 非叶子节点
  *
- * @author lyq
+ * @author Qstar
  */
 class NonLeafNode extends ClusteringFeature {
     // 非叶子节点的孩子节点可能为非叶子节点，也可能为叶子节点

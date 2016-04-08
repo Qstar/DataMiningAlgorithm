@@ -3,7 +3,7 @@ package AssociationAnalysis.DataMining_FPTree;
 /**
  * FPTreeÆµ·±Ä£Ê½Ê÷Ëã·¨
  *
- * @author lyq
+ * @author Qstar
  */
 public class Client {
     public static void main(String[] args){
